@@ -14,18 +14,20 @@
     <!-- TemplateEndEditable -->
   </head>
   <body>
+	  <div class="container">
+   	  <h1>Unsplash Photographer Spotlight</h1>
+		<p>[My mission statement.]</p>
+	
 	<!-- TemplateBeginEditable name="EditableRegion" -->
 	  
-	<div class="container">
-   	  <h1>Hello, world!</h1>
-		<p>[My mission statement.]</p>
-	</div>
+	<p>[Placeholder content.]</p>
 	  
 	<!-- TemplateEndEditable -->
 	  
 	<footer>
 	  <p>[Placeholder content.]</p>
 	</footer>
+	</div>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
